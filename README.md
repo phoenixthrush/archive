@@ -32,4 +32,4 @@
 ## Learn more
 
 If you want to know more about the history behind PhoenixHub visit my blog! <br/>
-Click [here](https://blog.phoenixthrush.com/History-of-PhoenixHub)
+Click [here](https://www.phoenixthrush.com/blog/pages/History-of-PhoenixHub)
